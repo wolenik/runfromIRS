@@ -1,8 +1,14 @@
 # runfromIRS
-Sort of like dinosaur game\n
-To change backround, edit DollarRunner.java in:\
-\DollarRunner\src\dollarrunner\
-Edit this line:\
-background = loadImage("Images/Sky.png"); (LINE 46)\
+Sort of like dinosaur game:)\
+To change backround, edit:
+```
+\DollarRunner\src\dollarrunner\DollarRunner.java
+```
+Edit line 46:
+```
+background = loadImage("Images/Sky.png");
+```
 To:\
+```
 background = loadImage("Images/Sky2.png");\
+```
