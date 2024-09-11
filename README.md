@@ -1,5 +1,5 @@
 # runfromIRS
-Sort of like dinosaur game\
+Sort of like dinosaur game\n
 To change backround, edit DollarRunner.java in:\
 \DollarRunner\src\dollarrunner\
 Edit this line:\
